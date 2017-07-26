@@ -1,5 +1,3 @@
-# cwdpath
-
 ## Description
 
 returns the relative path of the node process.
